@@ -19,7 +19,7 @@ Despite I've been working on some codes a bit more complex than exercises based 
 |Part II  |08       |Making Decisions     |Basic        |if/else/switch/(?:)               |
 |Part II  |09       |Loops                |Basic        |for/while/do                      |
 |Part II  |10       |Functions            |Basic        |creating your own functions       |
-|Part III |11       |Math operators	  |Intermediate |module                            |
+|Part III |11       |Math operators	  |Intermediate |module, trigonometry              |
 
 
 ## Exercises
