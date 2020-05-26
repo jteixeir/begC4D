@@ -20,7 +20,8 @@ Despite I've been working on some codes a bit more complex than exercises based 
 |Part II  |09       |Loops                |Basic        |for/while/do                                       |
 |Part II  |10       |Functions            |Basic        |creating your own functions                        |
 |Part III |11       |Math operators	  |Intermediate |module, trigonometry, math precedency              |
-|Part III| 12       |Arrays               |Intermadiate |                                                   |
+|Part III |12       |Arrays               |Intermediate |                                                   |
+|Part III |13	    |Strings		  |Intermediate |string.h and ctype.h lib exercises                 |
 
 ## Exercises
 You can find all the exercises proposed answers at [c-for-dummies.com](https://www.c-for-dummies.com/begc4d/exercises/)
