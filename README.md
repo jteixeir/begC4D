@@ -22,6 +22,9 @@ Despite I've been working on some codes a bit more complex than exercises based 
 |Part III |11       |Math operators	  |Intermediate |module, trigonometry, math precedency              |
 |Part III |12       |Arrays               |Intermediate |                                                   |
 |Part III |13	    |Strings		  |Intermediate |string.h and ctype.h lib exercises                 |
+|Part III |14       |Structs Intro        |Intermediate |						    |
+|Part III |15       |Argc / Argv          |Intermediate |						    |
+
 
 ## Exercises
 You can find all the exercises proposed answers at [c-for-dummies.com](https://www.c-for-dummies.com/begc4d/exercises/)
