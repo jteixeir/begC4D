@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define SET 32
+#define SET 223
 
 char	*binbin(int n);
 
@@ -9,11 +9,11 @@ int	main()
 
 	printf("Type a value from 0 to 255: ");
 	scanf("%d", &bor);
-	result = bor | SET;
+	result = bor & SET;
 
 	printf("\t%s\t%d\n", binbin(bor), bor);
-	printf("\t%s\t%d\n", binbin(SET), SET);
-	printf("\t%s\t%d\n", binbin(result), result);
+	printf("&\t%s\t%d\n", binbin(SET), SET);
+	printf("=\t%s\t%d\n", binbin(result), result);
 	return(0);
 }
 
