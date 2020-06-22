@@ -24,6 +24,8 @@ Despite I've been working on some codes a bit more complex than exercises based 
 |Part III |13	    |Strings		  |Intermediate |string.h and ctype.h lib exercises                 |
 |Part III |14       |Structs Intro        |Intermediate |						    |
 |Part III |15       |Argc / Argv          |Intermediate |						    |
+|Part III |16       |Variables            |Intermediate |						    |
+|Part III |17       |Binary               |Intermediate |						    |
 
 
 ## Exercises
